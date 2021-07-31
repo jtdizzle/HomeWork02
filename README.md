@@ -1,5 +1,5 @@
 # HomeWork02-07-31-2021
-First homework assignment- code refractor
+First homework assignment- code refractor:
 The first homework assingment that was given.
 
 The criteria is as follows:
